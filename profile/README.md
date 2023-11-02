@@ -1,4 +1,4 @@
-![kabuto](./assets/kabuto.jpg)
+![kabuto](assets/kabuto.jpg)
 
 ## Welcome to the Kabuto family
 
